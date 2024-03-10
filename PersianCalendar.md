@@ -4,6 +4,7 @@
 
 شما می‌توانید این برنامه را از طریق اپلیکیشن **Zepp** در گوشی خود دانلود و روی ساعتتان نصب کنید.
 
+<div class="daramet-embed-donate" id="2486"><script src="https://daramet.com/embed/script.js"></script></div>
 ## نکات مهم:
 
 این برنامه بر روی تمامی ساعت‌های **Amazfit** با سیستم‌عامل **Zepp OS** نسخه **2.0** و بالاتر قابل نصب است.
